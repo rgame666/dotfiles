@@ -1,1 +1,1 @@
-set num on
+set number
